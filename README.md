@@ -35,7 +35,7 @@ I have worked at **HiSkyTech**, where I gained practical experience in developin
 > - Job Search App (Admin & User)  
 > - Health Tracker App  
 > - Water Reminder App  
-> - Bluetooth Communication App  
+> - Bluetooth App  
 > - Translation App
 
 ---
