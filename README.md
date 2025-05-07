@@ -33,7 +33,7 @@ I have worked at **HiSkyTech**, where I gained practical experience in developin
 > - Personal Finance Manager  
 > - Weather App  
 > - Job Search App (Admin & User)  
-> - BMI Calculator  
+> - Health Tracker App  
 > - Water Reminder App  
 > - Bluetooth Communication App  
 > - Translation App
