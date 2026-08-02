@@ -42,7 +42,7 @@ I have worked at **HiSkyTech**, where I gained practical experience in developin
 
 ## 📢 Let's Connect!
 
-- 📧 Email: [ishmalmansoor@gmail.com](mailto:ishmalmansoor@gmail.com)
+- 📧 Email: [sara.ishmal.se@gmail.com](mailto:sara.ishmal.se@gmail.com)
 - 🌐 Fiverr: [Visit my Fiverr Profile](https://www.fiverr.com/ishmalmansoor)
 - 🌍 Location: Pakistan
 
